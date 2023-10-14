@@ -136,6 +136,7 @@ a{
 #latest-products ul li img {
    width: 100%;
    height: 25rem;
+   object-fit: cover;
 }
 .btn {
    background-color: rgb(242, 148, 8);
